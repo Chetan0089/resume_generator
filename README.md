@@ -1,4 +1,4 @@
 # resume_generator
 
-A new Flutter project.
+A Customizable resume Generator implemented using Flutter.
 
